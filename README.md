@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehia</h1>
-<h3 align="center">As a full stack blockchain developer, I am actively seeking exciting opportunities to collaborate on innovative decentralized applications (dApps).</h3>
+<h3 align="center">As a full-stack blockchain developer, I am actively seeking exciting opportunities to collaborate on innovative decentralized applications (dApps).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yehia67&label=Profile%20views&color=0e75b6&style=flat" alt="yehia67" /> </p>
 
