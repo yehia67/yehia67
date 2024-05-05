@@ -35,6 +35,7 @@
 <a href="https://twitter.com/yehiatarekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yehiatarekk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yehia-tarek-abdelmonem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yehia-tarek-abdelmonem/" height="30" width="40" /></a>
 <a href="https://medium.com/@yehiatarek67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yehiatarek67" height="30" width="40" /></a>
+  <a href="https://warpcast.com/yehia" target="blank"><img align="center" src="https://github.com/vrypan/farcaster-brand/blob/main/icons/icon-square/purple-white.svg" alt="yehiatarekk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
