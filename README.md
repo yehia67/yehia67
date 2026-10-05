@@ -66,4 +66,4 @@ Building scalable decentralized systems & exploring the future of Web3.
 
 ### ⚡ Fun Fact
 
-I practice **Aikido & Kenjutsu** — discipline, precision, and flow carry over into how I write code.
+I practice **Aikido & Kenjutsu**  discipline, precision, and flow carry over into how I write code.
